@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="icon" type="image/x-icon" href="assets/imgs/ICON.png">
+    <link rel="icon" type="image/x-icon" href="assets/imgs/icon.png">
 	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Start your development with LeadMark landing page.">
@@ -291,9 +291,9 @@
                 </div> 
                 <div class="col-md-6 col-lg-4 Buddhism"> 
                     <div class="portfolio-item">
-                        <img src="assets/imgs/advertising-4.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">            
+                        <img src="assets/imgs/bu.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">            
                         <div class="content-holder">
-                            <a class="img-popup" href="assets/imgs/advertising-4.jpg"></a>
+                            <a class="img-popup" href="assets/imgs/bu.jpg"></a>
                             <div class="text-holder">
                                 <h6 class="title">Yoga</h6>
                                 <p class="subtitle">Expedita corporis doloremque velit in totam!</p>
@@ -340,9 +340,9 @@
                 </div> 
                 <div class="col-md-6 col-lg-4 Buddhism">
                     <div class="portfolio-item">
-                        <img src="assets/imgs/branding-4.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">                      
+                        <img src="assets/imgs/wb.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">                      
                         <div class="content-holder">
-                            <a class="img-popup" href="assets/imgs/branding-4.jpg"></a>
+                            <a class="img-popup" href="assets/imgs/bu.jpg"></a>
                             <div class="text-holder">
                                 <h6 class="title">Buddhism</h6>
                                 <p class="subtitle">Expedita corporis doloremque velit in totam!</p>
@@ -425,7 +425,7 @@
                                     <small class="text-muted mb-0">Deputy Director General Central Environmental Authority </small>     
                                 </div>
                             </div>
-                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus enim modi, id dicta reiciendis itaque.</p>
+                            <p class="mb-0">Yoga with this studio has transformed my life. The instructors are knowledgeable and supportive, and I always leave feeling rejuvenated.</p>
                         </div>
                     </div>
                 </div>
@@ -439,7 +439,7 @@
                                     <small class="text-muted mb-0">Sri Lanka Army</small>      
                                 </div>
                             </div>
-                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus enim modi, id dicta reiciendis itaque.</p>
+                            <p class="mb-0">The classes here are a perfect blend of challenge and relaxation. I’ve seen significant improvements in my flexibility and overall well-being.</p>
                         </div>
                     </div>
                 </div>
@@ -453,7 +453,7 @@
                                     <small class="text-muted mb-0">Chief Legal Officer Bank of Ceylon</small>        
                                 </div>
                             </div>
-                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus enim modi, id dicta reiciendis itaque.</p>
+                            <p class="mb-0">I love the serene atmosphere and the attention to detail in every session. It's the highlight of my week!</p>
                         </div>
                     </div>
                 </div>
@@ -468,7 +468,7 @@
             <div class="row align-items-center">
                 <div class="col-md-5 my-3">
                     <h6 class="mb-0">Phone</h6>
-                    <p class="mb-4">Kostha : +94 77 7302575 / Rumesh : +94 76 9712052</p>
+                    <p class="mb-4">Costa : +94 77 7302575 / Dilshan : +94 77 077 9093</p>
 
                     <h6 class="mb-0">Head office</h6> 
                     <p class="mb-4">Boralasgamuwa</p>
