@@ -70,10 +70,16 @@
     </header>
     <!-- End Of Page Header -->
 <!-- Popup -->
-    <div class="popup">
-    <img src="assets/imgs/opening.jpg" alt="https://web.facebook.com/watch/?v=561271299536969" >
-    </div>
-    
+<section  id="service" class="section pt-0">
+    <div class="popup img">
+<?php
+$imageUrl = 'assets/imgs/opening.jpg';  // Replace with the URL of your image
+$redirectUrl = 'https://web.facebook.com/photo/?fbid=1004701074993159&set=a.452040630259209&_rdc=1&_rdr';         // Replace with the URL to which you want to redirect
+
+echo "<a href='$redirectUrl' target='_blank'><img src='$imageUrl' alt='Clickable Image' style='width:400px;height:600px;'></a>";
+?>
+</div>
+</section>  
 <!--End image popup-->
 
 
@@ -162,7 +168,7 @@
                 <div class="col-md-6 pl-md-5">
                     <div class="row">
                         <div class="col-6">
-                            <img src="assets/imgs/IMG_5231.jpeg" alt="" class="w-100 shadow-sm">
+                            <img src="assets/imgs/IMG_5231.jpg" alt="" class="w-100 shadow-sm">
                         </div>
                         <div class="col-6">
                             <img src="assets/imgs/IMG-20190114-WA0001.jpg" alt="" class="w-100 shadow-sm">
@@ -216,7 +222,19 @@
                         </div>   
                     </div>             
                 </div>
-                <div class="col-md-6 col-lg-4 yoga new">
+                <div class="col-md-6 col-lg-4 Buddhism new">
+                    <div class="portfolio-item">
+                        <img src="assets/imgs/wb.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">                      
+                        <div class="content-holder">
+                            <a class="img-popup" href="assets/imgs/bu.jpg"></a>
+                            <div class="text-holder">
+                                <h6 class="title">Buddhism</h6>
+                                <p class="subtitle">Expedita corporis doloremque velit in totam!</p>
+                            </div>
+                        </div>
+                    </div>                                                      
+                </div>                 
+                <div class="col-md-6 col-lg-4 yoga">
                     <div class="portfolio-item">
                         <img src="assets/imgs/IMG_5668.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
                         <div class="content-holder">
@@ -337,18 +355,6 @@
                             </div>
                         </div>
                     </div>                                                     
-                </div> 
-                <div class="col-md-6 col-lg-4 Buddhism">
-                    <div class="portfolio-item">
-                        <img src="assets/imgs/wb.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">                      
-                        <div class="content-holder">
-                            <a class="img-popup" href="assets/imgs/bu.jpg"></a>
-                            <div class="text-holder">
-                                <h6 class="title">Buddhism</h6>
-                                <p class="subtitle">Expedita corporis doloremque velit in totam!</p>
-                            </div>
-                        </div>
-                    </div>                                                      
                 </div> 
                 <div class="col-md-6 col-lg-4 Buddhism">
                     <div class="portfolio-item">

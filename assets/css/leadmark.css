@@ -11750,12 +11750,12 @@ textarea.form-control {
 }
 /*Popup*/
 .popup{
-  width: 600px;
+  width: auto;
   margin: auto;
   text-align: center
 }
 .popup img{
-  width: 450px;
+  width: 600px;
   height: 600px;
   cursor: pointer
 }
