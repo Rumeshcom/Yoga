@@ -4,7 +4,7 @@
     <link rel="icon" type="image/x-icon" href="assets/imgs/icon.png">
 	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Start your development with LeadMark landing page.">
+    <meta name="description" content="Yoga improves flexibility, strength, and balance, reduces stress, enhances mental clarity, and promotes overall well-being.">
     <meta name="author" content="Devcrud">
     <title>Sudasuna Yoga Ashram</title>
     <!-- font icons -->
