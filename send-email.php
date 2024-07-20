@@ -21,7 +21,7 @@ $mail->Host = "smtp.zoho.com";
 $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
 $mail->Port = 465;
 
-$mail->Username = "contact@sudasunayoga.com";
+$mail->Username = "contact@sudasunayogaashram.com";
 $mail->Password = "jeYsn0iYcC79";
 
 $mail->setFrom($email, $name);
