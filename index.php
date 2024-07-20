@@ -483,7 +483,7 @@ echo "<a href='$redirectUrl' target='_blank'><img src='$imageUrl' alt='Clickable
                     <p class="mb-4">Rakwana</p>
 
                     <h6 class="mb-0">Email</h6>
-                    <p class="mb-0">contact@sudasunayoga.com</p>
+                    <p class="mb-0">contact@sudasunayogaashram.com</p>
                     <p></p>
                 </div>
                 <div class="col-md-7">
