@@ -504,7 +504,13 @@ echo "<a href='$redirectUrl' target='_blank'><img src='$imageUrl' alt='Clickable
 
                             </div>
                             <div class="form-group col-12 mb-0">
-                                <!--<button class="btn btn-primary rounded w-md mt-3">Send</button>-->
+                            <?php
+                                $imageUrl = 'assets/imgs/fb.png';  // Replace with the URL of your image
+                                $redirectUrl = 'https://web.facebook.com/SudasunaYoga';         // Replace with the URL to which you want to redirect
+
+                                echo "<a href='$redirectUrl' target='_blank'><img src='$imageUrl' alt='Clickable Image' style='width:50px;height:50px;'></a>";
+                            ?>   
+                            <!--<button class="btn btn-primary rounded w-md mt-3">Send</button>-->
                             </div>                          
                         </div>                          
                     </form>
